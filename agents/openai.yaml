@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Design Brief"
+  short_description: "Бриф, эскизы и визуальная проверка нового UI"
+  default_prompt: "Используй $ui-design-brief, чтобы согласовать дизайн и эскизы перед созданием интерфейса."
